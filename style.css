@@ -7,10 +7,9 @@ body {
 header{
     text-align: center;
     transition: all 1s ease-in;
-    background-color: #333;
 }
 header:hover{
-    color: wheat;
+    color: palevioletred;
 }
 nav {
     background-color: #333;
@@ -34,6 +33,7 @@ footer {
     color: white;
     text-align: center;
     padding: 10px 0;
+    font-size: large;
 }
 
 form {
