@@ -1,19 +1,21 @@
 body {
     margin: 0;
     padding: 0;
-    background-color:bisque;
+    background-color:antiquewhite;
+    color: black;
 }
 header{
     text-align: center;
     transition: all 1s ease-in;
+    background-color: #333;
 }
 header:hover{
-    color: rgba(128, 100, 100, 0.918);
+    color: wheat;
 }
 nav {
     background-color: #333;
     color: white;
-    padding: 15px;
+    padding: 20px ;
     text-align: center;
 }
 nav a {
